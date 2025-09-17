@@ -1,0 +1,2 @@
+#!/bin/sh
+exec java -classpath "$0" org.gradle.wrapper.GradleWrapperMain "$@"
